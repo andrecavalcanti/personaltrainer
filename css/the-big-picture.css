@@ -1,0 +1,17 @@
+body {
+	/*
+	margin-top: 50px;
+	margin-bottom: 50px;
+	*/
+	background: none;
+}
+/
+ html, body, .col-lg-12 , .col-sm-12 { height: 100% ; width: 100%;}
+
+.full {
+  background: url(http://placehold.it/1920x1080) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
